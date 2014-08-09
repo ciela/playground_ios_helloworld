@@ -10,4 +10,8 @@
 
 @interface SCViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UILabel *label;
+
+- (IBAction)buttonTapped:(id)sender;
+
 @end
