@@ -27,7 +27,7 @@
 }
 
 - (IBAction)buttonTapped:(id)sender {
-    self.label.text = @"うんこ2!";
+    self.label.text = @"うんこ3!";
 }
 
 @end
